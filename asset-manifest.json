@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurant-website/static/css/main.e8466d6b.css",
-    "main.js": "/restaurant-website/static/js/main.e4e12945.js",
+    "main.js": "/restaurant-website/static/js/main.1eb9bd83.js",
     "static/js/787.5c050a0c.chunk.js": "/restaurant-website/static/js/787.5c050a0c.chunk.js",
     "static/media/food5.jpeg": "/restaurant-website/static/media/food5.47717fbc1b9f0e72382e.jpeg",
     "static/media/adobongKangkong.png": "/restaurant-website/static/media/adobongKangkong.1f47428befcfe28d4b5f.png",
@@ -21,11 +21,11 @@
     "static/media/check_back_menu.pdf": "/restaurant-website/static/media/check_back_menu.d813c288c18dd340d651.pdf",
     "index.html": "/restaurant-website/index.html",
     "main.e8466d6b.css.map": "/restaurant-website/static/css/main.e8466d6b.css.map",
-    "main.e4e12945.js.map": "/restaurant-website/static/js/main.e4e12945.js.map",
+    "main.1eb9bd83.js.map": "/restaurant-website/static/js/main.1eb9bd83.js.map",
     "787.5c050a0c.chunk.js.map": "/restaurant-website/static/js/787.5c050a0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8466d6b.css",
-    "static/js/main.e4e12945.js"
+    "static/js/main.1eb9bd83.js"
   ]
 }
