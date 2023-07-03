@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/restaurant-website/static/css/main.e8466d6b.css",
+    "main.js": "/restaurant-website/static/js/main.e4e12945.js",
+    "static/js/787.5c050a0c.chunk.js": "/restaurant-website/static/js/787.5c050a0c.chunk.js",
+    "static/media/food5.jpeg": "/restaurant-website/static/media/food5.47717fbc1b9f0e72382e.jpeg",
+    "static/media/adobongKangkong.png": "/restaurant-website/static/media/adobongKangkong.1f47428befcfe28d4b5f.png",
+    "static/media/lumpiang_sariwa.png": "/restaurant-website/static/media/lumpiang_sariwa.4d46800d30cb32eb007e.png",
+    "static/media/anak-logo.png": "/restaurant-website/static/media/anak-logo.77d2e5ea23734fa2716a.png",
+    "static/media/feast5.jpeg": "/restaurant-website/static/media/feast5.4d0308741597d8d47144.jpeg",
+    "static/media/feast6.jpeg": "/restaurant-website/static/media/feast6.05504627cc9414377328.jpeg",
+    "static/media/feast3.jpeg": "/restaurant-website/static/media/feast3.f86b270be8cd90015e74.jpeg",
+    "static/media/feast7.jpeg": "/restaurant-website/static/media/feast7.fe8db9b5938f857fb031.jpeg",
+    "static/media/feast2.jpeg": "/restaurant-website/static/media/feast2.7412e12a57bec8c6d390.jpeg",
+    "static/media/feast1.jpeg": "/restaurant-website/static/media/feast1.ea522abc00e36143dd97.jpeg",
+    "static/media/anak_footer-logo.png": "/restaurant-website/static/media/anak_footer-logo.e62e96b8482631a2fcf9.png",
+    "static/media/arroz_valenciana.jpeg": "/restaurant-website/static/media/arroz_valenciana.1420780084753db61286.jpeg",
+    "static/media/bbq_wings.jpeg": "/restaurant-website/static/media/bbq_wings.7a218876dd2825861ad5.jpeg",
+    "static/media/pancit_guisado.jpeg": "/restaurant-website/static/media/pancit_guisado.2fbb168d84c1198a6dde.jpeg",
+    "static/media/lumpia_shanghai.jpeg": "/restaurant-website/static/media/lumpia_shanghai.c6186355f28d8c0c5786.jpeg",
+    "static/media/check_back_menu.pdf": "/restaurant-website/static/media/check_back_menu.d813c288c18dd340d651.pdf",
+    "index.html": "/restaurant-website/index.html",
+    "main.e8466d6b.css.map": "/restaurant-website/static/css/main.e8466d6b.css.map",
+    "main.e4e12945.js.map": "/restaurant-website/static/js/main.e4e12945.js.map",
+    "787.5c050a0c.chunk.js.map": "/restaurant-website/static/js/787.5c050a0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8466d6b.css",
+    "static/js/main.e4e12945.js"
+  ]
+}
