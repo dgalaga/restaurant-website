@@ -1,5 +1,6 @@
 {
-  "name": "little-lemon-restaurant",
+  "homepage": "https://dgalaga.github.io/restaurant-website",
+  "name": "anakpdx-restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,16 +8,20 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.12.0",
     "google-maps-react": "^2.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
+    "typescript": "^5.1.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "dotenv-webpack": "^8.0.1"
+    "dotenv-webpack": "^8.0.1",
+    "gh-pages": "^5.0.0"
   }
 }
