@@ -9,7 +9,9 @@ import Confirmation from "./pages/Confirmation";
 export default function Routing() {
   return (
     <Routes>
-      <Route path="/" element={<Navigate to="/home" />} />
+      {/* <Route path="/" element={<Navigate to="/home" />} /> */}
+      <Route path="/" element={<Homepage />} />
+      <Route path="/restaurant-website" element={<Homepage />} />
       <Route path="/home" element={<Homepage />} />
       <Route path="/about" element={<About />} />
       <Route path="/reservations" element={<Reservation />} />
